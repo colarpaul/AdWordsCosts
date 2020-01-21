@@ -1,0 +1,58 @@
+.add-input-field {
+  margin-top: 5px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.add-input-button {
+  background: orange;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.remove-button {
+  color: white;
+  background: red;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+input {
+  border: 1px solid orange;
+  border-radius: 2px;
+  padding: 5px;
+}
+
+.submit-button {
+  background: #00a82a;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10px;
+}
+
+.divTable2 {
+  margin: 20px;
+}
+
+#divTableHead {
+  background: lightgray;
+}
+
+.divTable2 .divTableCell {
+  border: 1px solid #b5b5b5;
+}
+
+.output-container {
+  margin-top: 20px;
+}
+.output-container .title {
+  margin-bottom: 10px;
+}
